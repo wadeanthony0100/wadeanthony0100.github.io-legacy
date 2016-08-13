@@ -1,0 +1,14 @@
+# Setup
+title:        Wade Mauger
+education:    Rochester Intitute of Technology BS Software Engineering
+
+author:
+  name:       Author name
+  url:        http://wademauger.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
